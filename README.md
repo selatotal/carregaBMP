@@ -7,7 +7,7 @@ Você pode usar arquivos de exemplos disponíveis na pasta "bitmaps".
 Para utilizar, basta usar:
 carregaBMP &lt;arquivo&gt;
 
-Exemplo:
+Exemplo:<br>
 carregaBMP A.bmp
 
 <pre>
